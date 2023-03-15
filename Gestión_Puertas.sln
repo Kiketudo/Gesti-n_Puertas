@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestión_Puertas", "Gestión_Puertas\Gestión_Puertas.csproj", "{3301C991-D19F-49AA-9B4F-4C0A4C94005A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3301C991-D19F-49AA-9B4F-4C0A4C94005A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3301C991-D19F-49AA-9B4F-4C0A4C94005A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3301C991-D19F-49AA-9B4F-4C0A4C94005A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3301C991-D19F-49AA-9B4F-4C0A4C94005A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEED7D7F-6F79-4356-9F55-7648E6A88EC2}
+	EndGlobalSection
+EndGlobal
